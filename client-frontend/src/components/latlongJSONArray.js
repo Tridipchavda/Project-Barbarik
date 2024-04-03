@@ -1,0 +1,48 @@
+var coords =[
+  {"location": "narol", "latitude": 22.9729729, "longitude": 72.5846005},
+  {"location": "DCIS Circle", "latitude": 23.129273, "longitude": 72.5819126},
+  {"location": "Sarthi Bunglows", "latitude": 23.1229731, "longitude": 72.5778669},
+  {"location": "Chandkheda Gam", "latitude": 23.1165397, "longitude": 72.5819121},
+  {"location": "Shiv Shaktinagar", "latitude": 23.1125755, "longitude": 72.5838263},
+  {"location": "Jantangar", "latitude": 23.1097894, "longitude": 72.5844511},
+  {"location": "Vishvkarma Engineering", "latitude": 23.1058858, "longitude": 72.5929558},
+  {"location": "Visat – Gandhinagar Juncton", "latitude": 23.0974089, "longitude": 72.5859741},
+  {"location": "Motera Cross Road", "latitude": 23.0922298, "longitude": 72.5874837},
+  {"location": "Sabarmati Police Station", "latitude": 23.0861116, "longitude": 72.5919437},
+  {"location": "Sabarmati Municiple Swimming Pool", "latitude": 23.0815749, "longitude": 72.5907851},
+  {"location": "Rathi Apartment", "latitude": 23.0792364, "longitude": 72.5947427},
+  {"location": "Savarmati Power House", "latitude": 23.0736327, "longitude": 72.592172},
+  {"location": "R.T.O. Circle", "latitude": 23.0686563, "longitude": 72.581138},
+  {"location": "Ranip Cross Road", "latitude": 23.0675323, "longitude": 72.5749533},
+  {"location": "N R Patel Park", "latitude": 23.0665475, "longitude": 72.5714796},
+  {"location": "Ramapir No Tekro", "latitude": 23.061705, "longitude": 72.5718466},
+  {"location": "Juna Vadaj", "latitude": 23.0416688, "longitude": 72.5851244},
+  {"location": "Gurudwara", "latitude": 23.0476275, "longitude": 72.5779406},
+  {"location": "Hanumanpura", "latitude": 23.0449717, "longitude": 72.5787598},
+  {"location": "Sarkari Litho Press", "latitude": 23.0417749, "longitude": 72.5826251},
+  {"location": "Sarkari Litho Press Cabin", "latitude": 23.0394466, "longitude": 72.58619},
+  {"location": "Delhi Darwaja", "latitude": 23.0381455, "longitude": 72.5900518},
+  {"location": "Prem Darwaja", "latitude": 23.0341211, "longitude": 72.5962474},
+  {"location": "Kalupur Ghee Bazar", "latitude": 23.0311294, "longitude": 72.5970521},
+  {"location": "Kalupur", "latitude": 23.0281333, "longitude": 72.5974933},
+  {"location": "Sarangpur Darwaja", "latitude": 23.0217549, "longitude": 72.5964651},
+  {"location": "Karnamukteshwar Mahadev", "latitude": 23.0190749, "longitude": 72.5940491},
+  {"location": "Raipur Darwaja", "latitude": 23.0174141, "longitude": 72.5933785},
+  {"location": "Astodiya Darwaja", "latitude": 23.0168585, "longitude": 72.5896383},
+  {"location": "Geeta Mandir", "latitude": 23.0131047, "longitude": 72.5865086},
+  {"location": "Bhulabhai Park", "latitude": 23.0066929, "longitude": 72.5862481},
+  {"location": "Managal Park", "latitude": 23.0035763, "longitude": 72.5850253},
+  {"location": "Swaminarayan College", "latitude": 23.0007091, "longitude": 72.5723431},
+  {"location": "Vaikunth Dham Mandir", "latitude": 23.0006848, "longitude": 72.580068},
+  {"location": "Danilimda Road", "latitude": 22.9944244, "longitude": 72.575933},
+  {"location": "Chhipa Society", "latitude": 22.9897849, "longitude": 72.5760195},
+  {"location": "Chandola Lake", "latitude": 22.9872606, "longitude": 72.5824333},
+  {"location": "BRTS Workshop", "latitude": 22.9821729, "longitude": 72.5808051},
+  {"location": "Kashiram Textiles", "latitude": 22.9768249, "longitude": 72.5841651},
+  {"location": "ONGC Avani Bhavan", "latitude": 23.10357, "longitude": 72.5867515}
+]
+
+
+  
+
+export default coords
