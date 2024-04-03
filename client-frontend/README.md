@@ -1,16 +1,24 @@
 # Bus Transport Project Frontend
 
-# Used Libraries
+### Run Client Frontend
 
-- Open layers as opensource map library
+```
+npm install
+npm start
+```
 
 # Routes Available
 
-- / : client interaction website
-- /admin/bus : admin panel for bus info
-- /admin/route : admin panel for creating and updating new routes
-- /admin/schedule : admin panel for scheduling buses
-- /admin/driver : admin panel for drivers
-- /admin/station : admin panel for stations
-- /bus/home : dummy bus simulation
-- /bus/live : live bus input from bus
+#### Client Frontend 
+- <b>/</b> : client interaction website
+  
+#### Admin Application Routes
+- <b>/admin/bus</b> : admin panel for bus info
+- <b>/admin/route</b> : admin panel for creating and updating new routes
+- <b>/admin/schedule</b> : admin panel for scheduling buses
+- <b>/admin/driver</b> : admin panel for drivers
+- <b>/admin/station</b> : admin panel for stations
+
+#### Bus Side Application Routes
+- <b>/bus/home</b> : dummy bus simulation
+- <b>/bus/live</b> : live bus input from bus
