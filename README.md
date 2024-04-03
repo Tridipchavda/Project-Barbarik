@@ -1,7 +1,7 @@
 # Bus Transport Project
 
 ## Statement:
-Users can utilize our app to search for available BRTS (Bus Rapid Transit System) stations near them. They will receive information on available routes and incoming buses. Additionally, they can opt to receive live bus locations on a map, which is highly beneficial for users. If direct buses are not available between station X and Y, the app will display alternative routes via buses, including their route names and junction station names. 
+Users can utilize our app to search for available Buses stations near and Live Track them. They will receive information on available routes and incoming buses. Additionally, they can opt to receive live bus locations on a map, which is highly beneficial for users. If direct buses are not available between station X and Y, the app will display indirect routes via Two buses, including their route names and junction station names. 
 
 Admins have the capability to view and modify all routes, schedule buses, and assign drivers to buses, ensuring efficient management of the system. Therefore, this application proves to be invaluable for city commuters.
 
